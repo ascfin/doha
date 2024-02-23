@@ -11,9 +11,6 @@ https://www.youtube.com/@NBCNews/live
 FRANCE 24 | English | |
 https://www.youtube.com/@France24_en/live
 
-Live Open Sea Cam - Monterey Bay Aquarium | English | |
-https://www.youtube.com/@MontereyBayAquarium/live
-
 ウェザーニュース | Japanese | |
 https://www.youtube.com/@weathernews/live
 
@@ -24,9 +21,6 @@ NHK WORLD-JAPAN | Japanese | |
 https://www.youtube.com/@NHKWORLDJAPAN/live
 
 YTN | Korean | |
-https://www.youtube.com/@ytnnews24/live
-
-Arirang | Korean | |
 https://www.youtube.com/@ytnnews24/live
 
 PhoenixTV News | Hong Kong | |
@@ -53,5 +47,5 @@ https://www.youtube.com/@57ETFN/live
 大愛一臺HD | Taiwan | |
 https://www.youtube.com/@DaAiVideo/live
 
-大愛一臺HD | Taiwan | |
+大愛二臺HD | Taiwan | |
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
