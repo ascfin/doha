@@ -16,7 +16,7 @@ https://www.youtube.com/@France24_en/live
 LIVE: NASA Live Stream Earth From Space / Real ISS Live Feed | English | |
 https://www.youtube.com/@SpaceVideosHD/live
 
-ウェザーニュース | Japanese | |
+ウェザーニュース | Japanese | https://weathernews.jp/onebox/img/header/logo_wni.svg |
 https://www.youtube.com/@weathernews/live
 
 ANN JapaNews24 | Japanese | https://static.wikia.nocookie.net/logopedia/images/3/33/ANN_logo.svg |
@@ -25,11 +25,8 @@ https://www.youtube.com/watch?v=coYw-eVU0Ks
 TBS NEWS DIG | Japanese | https://newsdig.ismcdn.jp/common/images/site_logo.svg |
 https://www.youtube.com/@tbsnewsdig/live
 
-日テレNEWS | Japanese |
+日テレNEWS | Japanese | |
 https://www.youtube.com/@ntv_news/live
 
-YTN | Korean | |
+YTN | Korean | https://upload.wikimedia.org/wikipedia/commons/b/b4/YTN_logo_2014.svg |
 https://www.youtube.com/@ytnnews24/live
-
-KBS NEWS | Korean | |
-https://www.youtube.com/@newskbs/live
