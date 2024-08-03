@@ -1,15 +1,20 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+mnews Taiwan News | Taiwan News | |
+https://www.youtube.com/@mnews-tw/live
 
-News 12 New York | English | https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
+abc News | English | https://s.abcnews.com/assets/dtci/icomoon/svg/logo.svg |
+https://www.youtube.com/@ABCNews/live
 
 NBC News NOW | English | |
 https://www.youtube.com/@NBCNews/live
 
 FRANCE 24 | English | |
 https://www.youtube.com/@France24_en/live
+
+LIVE: NASA Live Stream Earth From Space / Real ISS Live Feed | English | |
+https://www.youtube.com/@SpaceVideosHD/live
 
 ウェザーニュース | Japanese | |
 https://www.youtube.com/@weathernews/live
@@ -20,35 +25,11 @@ https://www.youtube.com/watch?v=coYw-eVU0Ks
 TBS NEWS DIG | Japanese | https://newsdig.ismcdn.jp/common/images/site_logo.svg |
 https://www.youtube.com/@tbsnewsdig/live
 
+日テレNEWS | Japanese |
+https://www.youtube.com/@ntv_news/live
+
 YTN | Korean | |
 https://www.youtube.com/@ytnnews24/live
 
 KBS NEWS | Korean | |
 https://www.youtube.com/@newskbs/live
-
-PhoenixTV News | Hong Kong | |
-https://www.youtube.com/@phoenixtvhk/live
-
-mnews Taiwan News | Taiwan News | |
-https://www.youtube.com/@mnews-tw/live
-
-TVBS News | Taiwan News | |
-https://www.youtube.com/watch?v=2mCSYvcfhtc
-
-Taiwan TTV News | Taiwan News | |
-https://www.youtube.com/@TTV_NEWS/live
-
-SET Live News | Taiwan News | |
-https://www.youtube.com/@setnews/live
-
-Taiwan Formosa Live News | Taiwan News | |
-https://www.youtube.com/@FTV_News/live
-
-Taiwan EBC | Taiwan News | |
-https://www.youtube.com/@57ETFN/live
-
-大愛一臺HD | Taiwan | |
-https://www.youtube.com/@DaAiVideo/live
-
-大愛二臺HD | Taiwan | |
-https://www.youtube.com/watch?v=DTNkEm6jaqQ
